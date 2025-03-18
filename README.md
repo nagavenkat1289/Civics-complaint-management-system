@@ -79,9 +79,9 @@ Run the program using Visual Studio.
 
 ## Main Theme
 **Together, we can create a better future! Let’s raise our voices and work towards a solution-driven society.**
-##condition of project 
-** me and our  team numbers  are working on this project still .**
-** we think this project can be implemented in socitey or educational institution because the students can't raise the complient directly on teachers insted of that they raise their issue in this website and it will checked by head of department etc.. if the problem is critical then message will be sent immidetly to principal this will slightly works on machine learning algorthims with  help of trained data sets of mesages or complients etc...**
+## condition of project 
+** me and our  team numbers  are working on this project still .
+we think this project can be implemented in socitey or educational institution because the students can't raise the complient directly on teachers insted of that they raise their issue in this website and it will checked by head of department etc.. if the problem is critical then message will be sent immidetly to principal this will slightly works on machine learning algorthims with  help of trained data sets of mesages or complients etc...**
 ## Team numbers
     1.varshithreddynallu@gmail.com
     2.abhinayamudhiraj55@gmail.com
