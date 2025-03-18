@@ -59,15 +59,17 @@ Regular inspections and maintenance of public services.
 Community-driven initiatives with government support.
 
 Enhanced job creation policies and vocational training centers.
-prerequisites:
-software and libraries
+Prerequisites:
+software & libraries
 Ensure you have the following dependencies installed:
- .for frontend we have to
-   html,css,javascript
- .for backend we have to use 
-   php 
- .for database we have to use
-   sql or mysql
+ for frontend we have to
+   .html
+   .css
+   .javascript
+ for backend we have to use 
+   .php 
+ for database we have to use
+   .sql or mysql
 Installation
 1.clone the repository:
    git clone https://github.com/nagavenkat1289/Civics-complaint-management-system.git
